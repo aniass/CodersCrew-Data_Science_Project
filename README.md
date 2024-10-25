@@ -27,3 +27,7 @@ Project is created with:
 
 To run this project use Jupyter Notebook or Google Colab.
 
+You can run the scripts in the terminal:
+
+    web_scraping.py
+
